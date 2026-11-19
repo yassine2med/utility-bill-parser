@@ -1,0 +1,10 @@
+[project]
+name = "utility-bill-parser"
+version = "0.1.0"
+description = "Parse messy utility bill CSV rows into a clean monthly series"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
