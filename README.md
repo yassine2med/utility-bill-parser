@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="utility-bill-parser" width="100%"></p>
+
 # utility-bill-parser
 
 A command-line tool that cleans a utility bill CSV and spreads each bill's usage and cost across the calendar months it covers.
