@@ -2,6 +2,8 @@
 
 # utility-bill-parser
 
+[![CI](https://github.com/yassine2med/utility-bill-parser/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/utility-bill-parser/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 A command-line tool that cleans a utility bill CSV and spreads each bill's usage and cost across the calendar months it covers.
 
 ![Screenshot](docs/screenshot.png)
